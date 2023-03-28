@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="main_content">MainContent</string>
+    <string name="item_1">Item 1</string>
+    <string name="item_2">Item 2</string>
+    <string name="title">Sports</string>
+    <string name="ic_content_description">Icon</string>
+</resources>

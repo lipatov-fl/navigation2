@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="main_content">Мой контент</string>
+    <string name="item_1">Элемент 1</string>
+    <string name="item_2">Элемент 2</string>
+    <string name="title">Спорт</string>
+    <string name="ic_content_description">Иконка</string>
+</resources>

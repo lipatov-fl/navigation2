@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_bottom">8dp</dimen>
+    <dimen name="logo_size_width">90dp</dimen>
+    <dimen name="logo_size_height">90dp</dimen>
+    <dimen name="header_size">170dp</dimen>
+</resources>
