@@ -5,4 +5,6 @@
     <string name="item_2">Item 2</string>
     <string name="title">Sports</string>
     <string name="ic_content_description">Icon</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="fragment_2">Fragment 2</string>
 </resources>

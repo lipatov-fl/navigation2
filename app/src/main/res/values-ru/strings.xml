@@ -6,4 +6,6 @@
     <string name="item_2">Элемент 2</string>
     <string name="title">Спорт</string>
     <string name="ic_content_description">Иконка</string>
+    <string name="fragment_1">Фрагмент 1</string>
+    <string name="fragment_2">Фрагмент 2</string>
 </resources>
